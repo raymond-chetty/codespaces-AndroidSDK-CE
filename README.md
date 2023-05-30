@@ -6,14 +6,14 @@ development tools.
 
 ## Installed Software
 
-    * Ubuntu
-    * Bazelisk
-    * Gradle
-    * Maven
-    * Ant
-    * Meson
-    * Java 17 (Oracle)
-    * Android SDK
+    * Ubuntu      (jammy)
+    * Bazelisk    (v1.17.0)
+    * Gradle      (8.1.1)
+    * Maven       (3.9.2)
+    * Ant         (1.10.13)
+    * Meson       (1.1.0)
+    * Java 17     (Oracle)
+    * Android SDK (sdkmanager-9.0/android-33)
 
 ## Usage
 

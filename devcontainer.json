@@ -3,25 +3,25 @@
 {
 	"name": "Ubuntu",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
 	"features": {
-		"ghcr.io/devcontainers/features/java:latest": {
+		"ghcr.io/devcontainers/features/java:1.2.1": {
 			"installGradle": true,
 			"installMaven": true,
 			"installAnt": true,
 			"version": "17",
 			"jdkDistro": "oracle",
-			"gradleVersion": "latest",
-			"mavenVersion": "latest",
-			"antVersion": "latest"
+			"gradleVersion": "8.1.1",
+			"mavenVersion": "3.9.2",
+			"antVersion": "1.10.13"
 		},
-		"ghcr.io/devcontainers-contrib/features/meson-asdf:latest": {
-			"version": "latest"
+		"ghcr.io/devcontainers-contrib/features/meson-asdf:2.0.13": {
+			"version": "1.1.0"
 		},
-		"ghcr.io/balazs23/devcontainers-features/bazel:latest": {
-			"bazelisk": "latest"
+		"ghcr.io/balazs23/devcontainers-features/bazel:1.0.1": {
+			"bazelisk": "v1.17.0"
 		},
-		"ghcr.io/akhildevelops/devcontainer-features/android-cli:latest": {
+		"ghcr.io/akhildevelops/devcontainer-features/android-cli:0.0.2": {
 			"PACKAGES": "platform-tools,platforms;android-33,build-tools;33.0.2"
 		}
 	}

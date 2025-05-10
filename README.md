@@ -12,7 +12,7 @@ development tools.
     * Maven
     * Ant
     * Meson
-    * Java 23 (Oracle)
+    * Java 24 (Oracle)
     * Android SDK
 
 ## Usage

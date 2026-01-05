@@ -11,7 +11,7 @@ development tools.
     * Gradle
     * Maven
     * Ant
-    * Meson
+    * Meson (FIXME **archived feature unavailable**)
     * Java 25 (Oracle)
     * Android SDK
 

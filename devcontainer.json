@@ -15,9 +15,12 @@
 			"mavenVersion": "latest",
 			"antVersion": "latest"
 		},
-		"ghcr.io/devcontainers-contrib/features/meson-asdf:latest": {
-			"version": "latest"
-		},
+		// feature is currently archived 
+		// https://github.com/raymond-chetty/codespaces-AndroidSDK-CE/issues/5
+		// https://github.com/devcontainers-extra/features/tree/main/archive/src/meson-asdf
+		//"ghcr.io/devcontainers-contrib/features/meson-asdf:latest": {
+		//	"version": "latest"
+		//},
 		"ghcr.io/balazs23/devcontainers-features/bazel:latest": {
 			"bazelisk": "latest"
 		},

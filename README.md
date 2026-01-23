@@ -46,6 +46,8 @@ Additional information about [VS Code][3], the [UI][4],
 is available online. Devcontainers are available on the most
 common operating systems and the web ([1][8] & [2][9])!
 
+Before getting started it might also be helpful to add Copilot [repository custom instructions & prompt files][13], even with the [free][14] plan! More advanced users might also be interested in personalizing their dev containers with [dotfiles][12].
+
 If you want to get started with Java development you can use this
 ["Maven in 5 Minues"][10] documentation to learn the basics in 5
 minutes! Just run the commands listed in the terminal to get
@@ -66,5 +68,9 @@ the other tools or [further information][11].
 
 [10]: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 [11]: https://cs61a.org
+[12]: https://docs.github.com/en/codespaces/setting-your-user-preferences/personalizing-github-codespaces-for-your-account
+[13]: https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions
+[14]: https://docs.github.com/en/copilot/get-started/plans
+
 
 
